@@ -2,12 +2,12 @@
 // const myHeros = ["Saktimaan", "Iron Man", "Captain America"];
 // const myArr2 = new Array("Souvik", "Dey");
 
-// console.log(myArr[5]);
+// console.log(myArr[3]);
 // console.log(myHeros);
 // console.log(myArr2);
 
 //Araay Methods
-const myArr = [0, 1, 2, 3, 4];
+// const myArr = [0, 1, 2, 3, 4];
 // console.log(myArr);
 // console.log(typeof(myArr));
 // myArr.push(5);
@@ -25,6 +25,7 @@ const myArr = [0, 1, 2, 3, 4];
 // console.log(typeof(newArr));
 
 //Slice, Splice
+const myArr = [0, 1, 2, 3, 4];
 console.log("A ", myArr);
 const mynA1 = myArr.slice(1, 3);
 console.log(mynA1);
