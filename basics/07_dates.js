@@ -24,5 +24,5 @@ let newDate = new Date();
 let d = newDate.toLocaleString('default', {
     weekday: "long",
 });
-console.log(d);
+//console.log(d);
 
