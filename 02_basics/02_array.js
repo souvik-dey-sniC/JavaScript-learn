@@ -16,7 +16,7 @@ const dcHeros = ["Superman", "Flash", "Batman"];
 
 // console.log(Array.isArray("Souvik"));
 // console.log(Array.from("Souvik"));
-// console.log(Array.from({name: "Souvik"})); // Interesting Array
+//console.log(Array.from({name: "Souvik"})); // Interesting Array
 
 let score1 = 100;
 let score2 = 200;
