@@ -23,7 +23,7 @@ console.log(instructor);
 //     {},
 //     {},
 //     {}
-// }
+// };
 
 // API Example 
 // {
@@ -91,4 +91,4 @@ console.log(instructor);
 //       "page": 1,
 //       "version": "1.4"
 //     }
-//   }
+//   };
